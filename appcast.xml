@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>Mailbox for Zoho</title>
+<item>
+<title>v1.0</title>
+<pubDate>Fri, 3 Jan 2020 19:00:49 -0600</pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ronyfadel/MailboxReleases/releases/download/v1.0/Mailbox.tar.gz" sparkle:version="1.0" sparkle:shortVersionString="1.0" length="8147016" type="application/octet-stream"/>
+</item>
+</channel>
+</rss>
